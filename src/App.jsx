@@ -25,7 +25,7 @@ export default function App() {
       <footer>
         <div className="wrap">
           <span>© {new Date().getFullYear()} {profile.fullName}</span>
-          <span>Hecho con React · {profile.location}</span>
+          <span>{profile.location}</span>
         </div>
       </footer>
     </div>

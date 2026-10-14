@@ -8,7 +8,7 @@ export const profile = {
   name: 'Luis David',
   lastName: 'Casanova',
   fullName: 'Luis David Casanova Chávez',
-  location: 'CDMX, México',
+  location: 'CDMX, México | Santiago de Queretaro',
   roles: ['Fullstack / Frontend Developer', 'React Native Developer', 'Ingeniero en Sistemas'],
   summary:
     'Ingeniero en Sistemas Computacionales con más de 6 años construyendo aplicaciones web y móviles para banca y aviación. Me especializo en React Native, React, Node.js y Cells/Polymer.',
