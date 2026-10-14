@@ -200,7 +200,7 @@ export const projects = [
     category: 'movil',
     tag: 'MASTERAi · Proyecto Personal',
     title: 'MASTERAi',
-    description: 'Procimamente',
+    description: 'Proximamente',
     stack: ['Proximamente'],
     image: null,
     link: '#',
