@@ -3,6 +3,7 @@ import bbvaImg from './../assets/bbva.png';
 import aeromexicoImg from './../assets/aeromexico.png';
 import zunohealth from './../assets/zunohealth.png';
 import mcmtelecom from './../assets/mcmtelecom.png';
+import aulaPlan from './../assets/aulaPlan.png';
 
 export const profile = {
   name: 'Luis David',
@@ -180,7 +181,7 @@ export const projects = [
     category: 'web',
     tag: 'Zuno Health · TibsMX',
     title: 'ZUNO HEALTH',
-    description: 'Plataforma webde consultas médicas impulsada por inteligencia artificial-',
+    description: 'Plataforma web de consultas médicas impulsada por inteligencia artificial.',
     stack: ['React.js',
       'JavaScript',
       'Node.js',
@@ -198,12 +199,23 @@ export const projects = [
   {
     id: 'MASTERAi',
     category: 'movil',
-    tag: 'MASTERAi · Proyecto Personal',
-    title: 'MASTERAi',
-    description: 'Proximamente',
-    stack: ['Proximamente'],
-    image: null,
-    link: '#',
+    tag: 'AulaPlan · Proyecto Personal',
+    title: 'AulaPlan',
+    description: 'Plataforma web para docentes que facilita la creación y gestión de planeaciones didácticas con AI.',
+    stack: [
+      'JavaScript',
+      'Node.js',
+      'NestJS',
+      'AWS',
+      'SonarQube',
+      'OpenAI API',
+      'PostgreSQL',
+      'REST APIs',
+      'Git',
+      'CI/CD',
+    ],
+    image: aulaPlan,
+    link: 'https://aula-plan-tau.vercel.app/',
   },
 ];
 
