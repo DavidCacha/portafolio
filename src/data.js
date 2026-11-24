@@ -172,7 +172,7 @@ export const projects = [
     tag: 'NotifyHub · MCM Telecom',
     title: 'NotifyHub',
     description: 'Plataforma empresarial de notificaciones masivas que automatiza la comunicación, Comercializada por MCM Telecom.',
-    stack: ['Desarrollo web', 'PHP',' MySQL', 'HTML5', 'CSS3', 'TWILIO', 'SERVEWR MCM'],
+    stack: ['Docker','Angular','Desarrollo web', 'PHP',' MySQL', 'HTML5', 'CSS3', 'TWILIO', 'SERVEWR MCM'],
     image: mcmtelecom,
     link: 'https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.mcmtechco.com/&ved=2ahUKEwjT_rGNm7iXAxWUnGoFHYZpGgAQ0YISegoIAggACAAIChAC&opi=89978449&cd&psig=AOvVaw3aXcXLeByv5prWi5BIlEcI&ust=1792022751207000',
   },
@@ -184,6 +184,8 @@ export const projects = [
     description: 'Plataforma web de consultas médicas impulsada por inteligencia artificial.',
     stack: ['React.js',
       'JavaScript',
+      'Docker',
+      'Angular',
       'Node.js',
       'NestJS',
       'AWS',
@@ -206,6 +208,7 @@ export const projects = [
       'JavaScript',
       'Node.js',
       'NestJS',
+      'Docker',
       'AWS',
       'SonarQube',
       'OpenAI API',
@@ -220,7 +223,7 @@ export const projects = [
 ];
 
 export const skills = [
-  { group: 'Frontend Mobile/Web & Lenguajes', items: ['React', 'React Native', 'Cells / Polymer', 'JavaScript', 'TypeScript', 'C#', 'Dart', 'React Native', 'React.js', 'AngularJS', 'Cells', 'Polymer', 'Web Components', 'HTML5', 'CSS3', 'Sass', 
+  { group: 'Frontend Mobile/Web & Lenguajes', items: ['Angular','React', 'React Native', 'Cells / Polymer', 'JavaScript', 'TypeScript', 'C#', 'Dart', 'React Native', 'React.js', 'AngularJS', 'Cells', 'Polymer', 'Web Components', 'HTML5', 'CSS3', 'Sass', 
 'Bootstrap', 'Redux', 'Zustand' ] },
   { group: 'Backend & APIs:', items: ['Node.js', 'NET Core', 'REST APIs', 'GraphQL', 'Node.js', 'APIs REST', 'OAuth 2.0', 'JWT'] },
   { group: 'DevOps & Control de versiones', items: ['AWS Cognito', 'Amazon ECS · ECR', 'Docker', 'Git', 'GitHub', 'GitLab', 'Jenkins', 'Artifactory', 'Bitrise','CI/CD', 'AWS Services'] },
